@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube_column",
+    "textures": {
+      "end": "pfhrt:blocks/machine_side_empty",
+      "side": "pfhrt:blocks/pollen_generator"
+    }
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "textures": {
+          "side": "pfhrt:blocks/pollen_generator_static"
+        }
+      }
+    ]
+  }
+}
